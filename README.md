@@ -1,2 +1,2 @@
 # C210
-Repositório dos códigos da aula de Laboratório de Inteligência Computacional
+Repositório dos códigos das aulas de Laboratório de Inteligência Computacional
